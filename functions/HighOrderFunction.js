@@ -27,3 +27,7 @@ let compliment = function(msg){
 }
 
 console.log(compliment('you')('code?'))
+
+
+// we call higher order function when function is getting passed as arg
+// and when function is returning function itself
